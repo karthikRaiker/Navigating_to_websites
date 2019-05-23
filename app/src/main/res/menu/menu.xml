@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/g"
+        android:title="Google" />
+    <item
+        android:id="@+id/f"
+        android:title="Facebook" />
+    <item
+        android:id="@+id/r"
+        android:title="RVCE" />
+    <item
+        android:id="@+id/git"
+        android:title="GitHub" />
+    <item
+        android:id="@+id/q"
+        android:title="Quora" />
+</menu>
